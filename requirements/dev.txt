@@ -1,0 +1,5 @@
+-r common.txt
+ForgeryPy==0.1
+Flask-PageDown==0.2.1
+Markdown==2.6.5
+Bleach==1.4.2
